@@ -1,0 +1,202 @@
+[
+    {
+      "Des": "Beginner,This design-centric course examines the broad question of what an interface is and what role a designer plays in creating a user interface. ",
+      "Course_No": 1,
+      "Course_Name": "Visual Elements of User Interface Design"
+    },
+    {
+      "Des": "Beginner,Take your first step towards a career in software development with this introduction to Java—one of the most in-demand programming languages and the foundation of the Android operating system.",
+      "Course_No": 2,
+      "Course_Name": "Java Programming and Software Fundamentals"
+    },
+    {
+      "Des": "Beginner,The focus of this course is to introduce the learner to User Experience (UX) Design User Experience design is design that is user centered.",
+      "Course_No": 3,
+      "Course_Name": "Introduction to User Experience Design"
+    },
+    {
+      "Des": "Beginner,This specialization provides learners with the necessary knowledge and practical skills to develop a strong foundation in information visualization and to design and develop advanced applications for visual data analysis.",
+      "Course_No": 4,
+      "Course_Name": "Information Visualization"
+    },
+    {
+      "Des": "Beginner,You will  learn industry-standard methods for how to approach the design of a user interface and key theories and frameworks that underlie the design of most interfaces you use today.",
+      "Course_No": 5,
+      "Course_Name": "Introduction to UI Design"
+    },
+    {
+      "Des": "Adcanced,In this course, through a series of lectures and hands-on lessons, we’ll examine a designer’s approach to the design and manufacturing process—from concept to 3D model.",
+      "Course_No": 6,
+      "Course_Name": "3D Model Creation"
+    },
+    {
+      "Des": "Adcanced,Once you’ve identified a big data issue to analyze, how do you collect, store and organize your data using Big Data solutions? In this course, you will experience various data genres and management tools appropriate for each. ",
+      "Course_No": 7,
+      "Course_Name": "Big Data Modeling and Management Systems"
+    },
+    {
+      "Des": "Adcanced,This is the first course in a Coursera Specialization track involving Web Application Architectures. This course will give you the basic background, terminology and fundamental concepts that you need to understand in order to build modern full stack web applications. ",
+      "Course_No": 8,
+      "Course_Name": "Web Application Development"
+    },
+    {
+      "Des": "Adcanced,The way that software components — subroutines, classes, functions, etc. — are arranged, and the interactions between them, is called architecture. In this course you will study the ways these architectures are represented, both in UML and other visual tools. ",
+      "Course_No": 9,
+      "Course_Name": "Software Architecture"
+    },
+    {
+      "Des": "Adcanced,This course we will explore the foundations of software security. We will consider important software vulnerabilities and attacks that exploit them -- such as buffer overflows, SQL injection, and session hijacking",
+      "Course_No": 10,
+      "Course_Name": "Software Security"
+    },
+    {
+      "Des": "Beginner,Learner Outcomes: After taking this course, you will be able to: - Utilize various Application Programming Interface (API) services to collect data from different social media sources such as YouTube, Twitter, and Flickr.",
+      "Course_No": 11,
+      "Course_Name": "Social Media Data Analytics"
+    },
+    {
+      "Des": "Beginner,In this course, you will learn how to use strategic marketing and personal branding techniques for designing, enhancing, and promoting your professional image. ",
+      "Course_No": 12,
+      "Course_Name": "Strategic Self-Marketing and Personal Branding"
+    },
+    {
+      "Des": "Beginner,Managers are increasingly confronted with issues of sustainability, responsibility and ethics. Managing responsibly is an integrative approach to sustainability, responsibility and ethics",
+      "Course_No": 13,
+      "Course_Name": "Marketing Mix Implementation Capstone"
+    },
+    {
+      "Des": "Beginner,This course offers an introduction to social impact strategy and social entrepreneurship, including key concepts, an overview of the field, and tools to get started as a changemaker",
+      "Course_No": 14,
+      "Course_Name": "Introduction of Social Marketing"
+    },
+    {
+      "Des": "Beginner,Content Strategy uses credible, trustworthy, transparent media to communicate stories and information to enhance an organization’s strategic goals. ",
+      "Course_No": 15,
+      "Course_Name": "Content Strategy for professionals"
+    },
+    {
+      "Des": "Adcanced,To be a successful engineer, you must work and play well with others. This course focuses on developing the skills you will need to build and sustain professional relationships and networks.",
+      "Course_No": 16,
+      "Course_Name": "Relationship Management"
+    },
+    {
+      "Des": "Adcanced,Market Research is a growing and important field that is used in many industries around the world. Given all the data that is collected whether by organizations, industries, social media, governments, etc., ",
+      "Course_No": 17,
+      "Course_Name": "Initiating Research"
+    },
+    {
+      "Des": "Adcanced,You have completed all the hard work of conducting your internal, secondary, and primary research. You have analyzed all the data and are able to formulate insights and recommendations based on your research proposal. ",
+      "Course_No": 18,
+      "Course_Name": "Delivering Insights"
+    },
+    {
+      "Des": "Adcanced,In this course you will be introduced to the basic ideas behind the qualitative research in social science. You will learn about data collection, description, analysis and interpretation in qualitative research.",
+      "Course_No": 19,
+      "Course_Name": "Qualitative Methods in Social Marketing"
+    },
+    {
+      "Des": "Adcanced,This course focuses on technical, mobile and social strategies for increasing site traffic. Learn how to build SEO for international audiences through content localization, global team alignment and optimizing for local search engines. ",
+      "Course_No": 20,
+      "Course_Name": "Advanced Search Engine Optimization Strategies"
+    },
+    {
+      "Des": "Beginner,What makes an interface intuitive? How can I tell whether one design works better than another? This course will teach you fundamental principles of design and how to effectively evaluate your work with users. ",
+      "Course_No": 21,
+      "Course_Name": "Design Principles: an Introduction"
+    },
+    {
+      "Des": "Beginner,This hands-on course examines how content is organized and structured to create an experience for a user, and what role the designer plays in creating and shaping user experience.",
+      "Course_No": 22,
+      "Course_Name": "UX Design Fundamentals"
+    },
+    {
+      "Des": "Beginner,This design-centric course examines the broad question of what an interface is and what role a designer plays in creating a user interface. ",
+      "Course_No": 23,
+      "Course_Name": "Visual Elements of User Interface Design"
+    },
+    {
+      "Des": "Beginner,For an increasing number of established companies, creating new business opportunities within the company is an imperative for success. ",
+      "Course_No": 24,
+      "Course_Name": "Corporate Entrepreneurship"
+    },
+    {
+      "Des": "Beginner,This Specialization enables learners to successfully apply core Java programming languages features & software patterns needed to develop maintainable mobile apps comprised of core Android components, as well as fundamental Java I/O & persistence mechanisms.",
+      "Course_No": 25,
+      "Course_Name": "Android App Development"
+    },
+    {
+      "Des": "Adcanced,This course provides a deeper exploration of mechanical assemblies and simulation, which are key engineering features of the design and manufacturing process. ",
+      "Course_No": 26,
+      "Course_Name": "Engineering Design Process"
+    },
+    {
+      "Des": "Adcanced,Are you ready to close the loop on your Big Data skills? Do you want to apply all your knowledge you got from the previous courses in practice? Finally, in the Capstone project, you will integrate all the knowledge acquired earlier to build a real application leveraging the power of Big Data.",
+      "Course_No": 27,
+      "Course_Name": "Big Data Service"
+    },
+    {
+      "Des": "Adcanced,Students will produce a networked game that will leverage sensors on the phone to create a unique gaming experience.",
+      "Course_No": 28,
+      "Course_Name": "IOS : Transreality Game"
+    },
+    {
+      "Des": "Adcanced,As an option, you can build and test a system. The focus of your project will be to design the system so that it can be built on a low-cost budget for a real-world application. ",
+      "Course_No": 29,
+      "Course_Name": "Programming for the Internet "
+    },
+    {
+      "Des": "Adcanced,This Specialization covers the theoretical and practical foundations of video game production using the Unity 3D game engine.",
+      "Course_No": 30,
+      "Course_Name": "Game Design and Development"
+    },
+    {
+      "Des": "Beginner,The course takes you step by step through the system life cycle, from design to development, production and management.",
+      "Course_No": 31,
+      "Course_Name": "Inroduction to Software Production Management"
+    },
+    {
+      "Des": "Beginner,In this course, you will gain an understanding of the theory underlying optimal portfolio construction, the different ways portfolios are actually built in practice and how to measure and manage the risk of such portfolios.",
+      "Course_No": 32,
+      "Course_Name": "Portfolio and Risk Management"
+    },
+    {
+      "Des": "Beginner,Paired with humorous elements and illustrating examples, the Competitive Strategy and Organization Design specialization is the ideal choice for curious individuals who enjoy unique learning experiences and innovative teaching approaches.",
+      "Course_No": 33,
+      "Course_Name": "Competitive Strategy and Organization Design"
+    },
+    {
+      "Des": "Beginner,This course will provide you with a firm foundation in lithium-ion cell terminology and function and in battery-management-system requirements as needed by the remainder of the specialization. ",
+      "Course_No": 34,
+      "Course_Name": "Introduction to battery - management systems"
+    },
+    {
+      "Des": "Beginner,This Specialization is intended for sales professionals who seek to improve their sales planning and management competencies and skills. ",
+      "Course_No": 35,
+      "Course_Name": "Strategic Sales Management "
+    },
+    {
+      "Des": "Adcanced,This Specialization covers data architecture skills that are increasingly critical across a broad range of technology fields.",
+      "Course_No": 36,
+      "Course_Name": "Data Warehousing for business Intelligence"
+    },
+    {
+      "Des": "Adcanced,We will dive into the components and best practices of a high-performing ML system in production environments. ",
+      "Course_No": 37,
+      "Course_Name": "Production Machine Learning System"
+    },
+    {
+      "Des": "Adcanced,There is a significant number of tasks when we need not just to process an enormous volume of data but to process it as quickly as possible. Delays in tsunami prediction can cost people’s lives. ",
+      "Course_No": 38,
+      "Course_Name": "Big Data Applications: Real-Time Streaming"
+    },
+    {
+      "Des": "Adcanced,Designing a product is only part of the process. Now, can that product be manufactured? A CNC machinist works with computer numeric controlled (CNC) machines from generating the machine code to machine setup and run. ",
+      "Course_No": 39,
+      "Course_Name": "Manufacturing Process"
+    },
+    {
+      "Des": "Adcanced,The main goal of this specialization is to provide the knowledge and practical skills necessary to develop a strong foundation on core paradigms and algorithms of machine learning (ML), with a particular focus on applications of ML to various practical problems in Finance.",
+      "Course_No": 40,
+      "Course_Name": "Reinforcement Learning in Finance"
+    }
+   ]

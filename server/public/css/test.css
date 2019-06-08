@@ -1,0 +1,79 @@
+#formdiv{
+    margin : 30px 300px 30px 300px;
+}
+
+#footer{
+    position: relative;
+    margin-top: 150px;
+
+    background: #cccccc;
+    height: 250px;
+	clear:both;
+}
+#foot_lift{
+    position: absolute;
+    left: 10px;
+    float: left;
+
+}
+#foot_right{
+        position: absolute;
+        right: 10px;
+
+}
+#mid1{
+    float: left;
+    position: relative;
+    top: 30px;
+    left: 30%;
+    text-align: center;
+}
+#mid2{
+    float: left;
+    position: relative;
+    top: 30px;
+    left: 35%;
+    text-align: center;
+}
+#mid3{
+    float: left;
+    position: relative;
+    top: 30px;
+    left:40%;
+    text-align: center;
+}
+p{
+    color: #000cc0;
+}
+.content{
+    margin-top: 20%;
+}
+[name = part_2],[name = part_3],
+[name = part_4]{
+    display: none;
+}
+
+#side_niv{
+    float: left;
+    position: fixed;
+    left: 10px;
+    top: 70px;
+    background-color: #f8f9fa;
+}
+hr{
+    margin-top: 2px;
+}
+.border{
+   border:2px solid;
+   border-radius:25px;
+   padding:10px 40px;
+   background:#f8f9fa;
+}
+.form-group{
+    position: relative;
+    top: 10px;
+}
+.questionlab{
+    font-size: 20px;
+    color: #000cc0;
+}

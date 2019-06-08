@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<link rel="stylesheet" 
+href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" 
+crossorigin="anonymous">
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script src="js/from.js"></script>
+<link rel="stylesheet" href="css/test.css" />
+<!-- <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script> -->
+
+<title>
+  Survey
+</title>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">
+          <img src = 'img/logo.png' width="60px" height="40px">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+              <li class="nav-item">
+                  <a class="nav-link" href="home.html">Home</a>
+                </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="#" >Test<span class="sr-only">(current)</span></a>
+              </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Result</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">About Us</a>
+              </li>
+          </ul>
+          <form class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+          </form>
+        </div>
+      </nav>
+    
+  <!-- form -->
+<div id = 'formdiv'>
+
+<div id='side_niv'>
+  <ul class="nav flex-column">
+    <li class="nav-item">
+      <a class="nav-link active" id="left-1" href="">Part-1</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link disabled" id="left-2" href="">Part-2</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link disabled" id="left-3" href="">Part-3</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link disabled" id="left-4" href="">Part-4</a>
+    </li>
+  </ul>
+</div>    
+
+<form id="form">
+    <div class="form-group" name='part_1'>
+   <div class="border">
+        <label class="questionlab">Q1. What is your age?</label>
+        <hr>
+        <input name="age" class="form-control" type="text" placeholder="e.g 18"></input>
+      </div>
+      <br>  
+    </div>
+
+  <div class="form-group" name='part_1'>
+    <div class="border">
+    <label class="questionlab" for="exampleFormControlSelect1">Q2. What is your education background?</label>
+    <hr>
+    <select class="form-control" id="background">
+      <option>background?</option>      
+      <option>High School</option>
+      <option>Undergraduate</option>
+      <option>Postgraduate</option>
+    </select>
+  </div>
+  <br> 
+</div>
+
+    <div class="form-group" name='part_1'>
+      <div class="border">
+        <label class="questionlab" for="exampleFormControlSelect 3">Q3. Are there any skills you  familiar with?</label>
+        <hr>
+        <select class="form-control" id="skills">
+          <option>Skills?</option>
+          <option>Java</option><option>Python</option>
+          <option>Andriod</option><option>Data analysis</option>
+          <option>Management</option><option>Programming</option>
+          <option>Web</option><option>Big data</option>
+          <option>Data Integration</option><option>Database</option>
+          <option>Design</option><option>Machine Learning</option>
+          <option>Marketing</option><option>Microstrategy</option>
+          <option>Software Requirements</option><option>Software Testing</option> 
+          <option>SQL</option><option>None</option>
+        </select>
+      </div>
+      <br>
+    </div>
+    
+<div class="form-group" name='part_1'>
+<div class="border">
+      <label class="questionlab">What is your purpose of taking education?</label>
+      <hr>
+      <input class="form-control" type="text" placeholder="e.g Found a Job"></input>
+    </div>
+    <br>
+  </div>
+
+<div class="form-group" name='part_1'>
+    <div class="border">
+      <label class="questionlab">Do you have working experience?</label>
+      <hr>
+      <input class="form-control" type="text" placeholder="e.g worked industrial"></input>
+    </div>
+    <br>
+  </div>
+  <!-- personality question-1 -->
+  <div class="form-group" name='part_2'>
+    <div class="border">
+      <label class="questionlab" for="exampleFormControlSelect 3">Q4. If I were working on a project, I would:</label>
+       <hr style="width:50%; margin-left: 1px; ">
+      <div class="form-check">
+            <input class="form-check-input" type="checkbox" name="q1_a" value="1" id="defaultCheck1">
+            <label class="form-check-label" for="defaultCheck1">
+                Involve myself in everyone's activities
+            </label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" name="q1_a" value="0" id="defaultCheck2">
+            <label class="form-check-label" for="defaultCheck2">
+              Work on part in my own space & time
+            </label>
+          </div>
+          <label>And:</label>
+      <div class="form-check">
+          <input class="form-check-input" type="checkbox" name="q1_b" value="1" id="defaultCheck2">
+          <label class="form-check-label" for="defaultCheck2">
+            Focus on developing something tangible quickly
+          </label>
+        </div>   
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" name="q1_b" value="0" id="defaultCheck2">
+          <label class="form-check-label" for="defaultCheck2">
+            Spend more time reading
+          </label>
+          </div>  
+        </div>        
+        </div>
+<br>
+
+  <!-- personality question-2 -->
+  <div class="form-group" name='part_2'>
+  <div class="border">
+    <label class="questionlab" for="exampleFormControlSelect 3">Q5. If I am not satisfied with the way I do things, I: </label>
+    <hr style="width:50%; margin-left: 1px; ">       
+    <div class="form-check">
+            <input class="form-check-input" type="checkbox" name="q2_a" value="1" id="defaultCheck1">
+            <label class="form-check-label" for="defaultCheck1">
+             Ask people for help
+            </label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" name="q2_a" value="0" id="defaultCheck2">
+            <label class="form-check-label" for="defaultCheck2">
+              Think about what might be going wrong
+            </label>
+          </div>
+          <label>And:</label>
+      <div class="form-check">
+          <input class="form-check-input" type="checkbox" name="q2_b" value="1" id="defaultCheck2">
+          <label class="form-check-label" for="defaultCheck2">
+            Try alternate solutions myself
+          </label>
+        </div>   
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" name="q2_b" value="0" id="defaultCheck2">
+          <label class="form-check-label" for="defaultCheck2">
+            Spend time researching about it
+          </label>
+          </div>           
+        </div>
+      </div> 
+      <br> 
+  <!-- personality question-3 -->
+<div class="form-group" name='part_2'>
+<div class="border">    
+<label class="questionlab" for="exampleFormControlSelect 3">Q6. I’m interested in learning about countries. I: </label>
+<hr style="width:50%; margin-left: 1px; ">
+<div class="form-check">
+      <input class="form-check-input" type="checkbox" name="q3_a" value="1" id="defaultCheck1">
+      <label class="form-check-label" for="defaultCheck1">
+        Ask travelers bazillion questions about their experiences
+      </label>
+    </div>
+    <div class="form-check">
+      <input class="form-check-input" type="checkbox" name="q3_a" value="0" id="defaultCheck2">
+      <label class="form-check-label" for="defaultCheck2">
+      Thinking about how my experiences would be
+      </label>
+    </div>
+    <label>And:</label>
+<div class="form-check">
+    <input class="form-check-input" type="checkbox" name="q3_b" value="1" id="defaultCheck2">
+    <label class="form-check-label" for="defaultCheck2">
+      Would start saving money to travel soon
+    </label>
+  </div>   
+  <div class="form-check">
+    <input class="form-check-input" type="checkbox" name="q3_b" value="0" id="defaultCheck2">
+    <label class="form-check-label" for="defaultCheck2">
+      Would wait for the time & opportunity to arrive
+    </label>
+    </div>          
+  </div>
+</div>   
+<!-- personality question-4 -->
+<div class="form-group" name='part_3'>
+<div class="border">
+    <label class="questionlab" for="exampleFormControlSelect 3">Q7. When I set ambitious goals for myself: </label>
+   <hr style="width:50%; margin-left: 1px; ">     
+    <div class="form-check">
+          <input class="form-check-input" type="checkbox" name="q4_a" value="1" id="defaultCheck1">
+          <label class="form-check-label" for="defaultCheck1">
+            I seek mentorship to get an edge
+          </label>
+        </div>
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" name="q4_a" value="0" id="defaultCheck2">
+          <label class="form-check-label" for="defaultCheck2">
+            I hope things fall in place eventually
+          </label>
+        </div>
+        <label>And:</label>
+    <div class="form-check">
+        <input class="form-check-input" type="checkbox" name="q4_b" value="1" id="defaultCheck2">
+        <label class="form-check-label" for="defaultCheck2">
+          I experiment quite a lot to get to where I should
+        </label>
+      </div>   
+      <div class="form-check">
+        <input class="form-check-input" type="checkbox" name="q4_b" value="0" id="defaultCheck2">
+        <label class="form-check-label" for="defaultCheck2">
+          I only get as close as charting the perfect plan
+        </label>
+        </div>          
+      </div>
+    </div>
+  <br/>
+<!-- personality question-5 -->
+<div class="form-group" name='part_3'>
+<div class="border">
+  <label class="questionlab" for="exampleFormControlSelect 3">Q8. When I finish reading a book or a novel:  </label>
+  <hr style="width:50%; margin-left: 1px; ">   
+  <div class="form-check">
+          <input class="form-check-input" type="checkbox" name="q5_a" value="1" id="defaultCheck1">
+          <label class="form-check-label" for="defaultCheck1">
+            I participate at a book club and discuss perspectives
+          </label>
+        </div>
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" name="q5_a" value="0" id="defaultCheck2">
+          <label class="form-check-label" for="defaultCheck2">
+            I move onto my next favorite book 
+          </label>
+        </div>
+        <label>And:</label>
+    <div class="form-check">
+        <input class="form-check-input" type="checkbox" name="q5_b" value="1" id="defaultCheck2">
+        <label class="form-check-label" for="defaultCheck2">
+          I try writing up a poem or short story
+        </label>
+      </div>   
+      <div class="form-check">
+        <input class="form-check-input" type="checkbox" name="q5_b" value="0" id="defaultCheck2">
+        <label class="form-check-label" for="defaultCheck2">
+          I'm only curious about how authors come up with storylines
+        </label>
+        </div>          
+      </div>
+    </div>
+    <br/>
+<!-- personality question-6 -->
+<div class="form-group" name='part_3'>
+<div class="border">
+  <label class="questionlab" for="exampleFormControlSelect 3">Q9. When deciding on a unit to study at university, I look at whether: </label>
+  <hr style="width:50%; margin-left: 1px; ">    
+  <div class="form-check">
+          <input class="form-check-input" type="checkbox" name="q6_a" value="1" id="defaultCheck1">
+          <label class="form-check-label" for="defaultCheck1">
+            It involves team work and public speaking
+          </label>
+        </div>
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" name="q6_a" value="0" id="defaultCheck2">
+          <label class="form-check-label" for="defaultCheck2">
+            It involves just working on individual assignments 
+          </label>
+        </div>
+        <label>And:</label>
+    <div class="form-check">
+        <input class="form-check-input" type="checkbox" name="q6_b" value="1"  id="defaultCheck2">
+        <label class="form-check-label" for="defaultCheck2">
+          I can make a demo product at the end
+        </label>
+      </div>   
+      <div class="form-check">
+        <input class="form-check-input" type="checkbox" name="q6_b" value="0"  id="defaultCheck2">
+        <label class="form-check-label" for="defaultCheck2">
+          I can just improve my foundational knowledge
+        </label>
+        </div>         
+      </div>
+    </div>  
+<!-- personality question-7 -->
+<div class="form-group" name='part_4'>
+<div class="border">
+  <label class="questionlab" for="exampleFormControlSelect 3">Q10. When it comes to music and other art:  </label>
+  <hr style="width:50%; margin-left: 1px; ">   
+  <div class="form-check">
+          <input class="form-check-input" type="checkbox" name="q7_a" value="1" id="defaultCheck1">
+          <label class="form-check-label" for="defaultCheck1">
+            I enjoy it through live shows or checking out the local art gallery
+          </label>
+        </div>
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" name="q7_a" value="0" id="defaultCheck2">
+          <label class="form-check-label" for="defaultCheck2">
+            I'd rather listen in my own time than attend shows/events
+          </label>
+        </div>
+        <label>And:</label>
+    <div class="form-check">
+        <input class="form-check-input" type="checkbox" name="q7_b" value="1"  id="defaultCheck2">
+        <label class="form-check-label" for="defaultCheck2">
+          I would attempt creating a piece of art myself
+        </label>
+      </div>   
+      <div class="form-check">
+        <input class="form-check-input" type="checkbox" name="q7_b" value="0"  id="defaultCheck2">
+        <label class="form-check-label" for="defaultCheck2">
+            I’m happy being an admirer and at most a connoisseur
+        </label>
+        </div>         
+      </div>
+    </div> 
+<br>
+<!-- personality question-8 -->
+<div class="form-group" name='part_4'>
+<div class="border">   
+  <label class="questionlab" for="exampleFormControlSelect 3">Q11. When it gets windy outside with trees swaying, I:  </label>
+  <hr style="width:50%; margin-left: 1px; ">    
+  <div class="form-check">
+          <input class="form-check-input" type="checkbox" name="q8_a" value="1"  id="defaultCheck1">
+          <label class="form-check-label" for="defaultCheck1">
+            Quickly go and enjoy the cool breeze under a tree
+          </label>
+        </div>
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" name="q8_a" value="0" id="defaultCheck2">
+          <label class="form-check-label" for="defaultCheck2">
+            Would rather stay at home
+          </label>
+        </div>
+        <label>And:</label>
+    <div class="form-check">
+        <input class="form-check-input" type="checkbox" name="q8_b" value="1" id="defaultCheck2">
+        <label class="form-check-label" for="defaultCheck2">
+          Would go out and try something fun
+        </label>
+      </div>   
+      <div class="form-check">
+        <input class="form-check-input" type="checkbox" name="q8_b" value="0" id="defaultCheck2">
+        <label class="form-check-label" for="defaultCheck2">
+          Would rather enjoy nature from home
+        </label>
+        </div>
+    </div> 
+  <br/> 
+        <button type="button" name='part_4' id="submit" onclick="sub()" class="btn btn-primary">Send form</button>
+        <button type="button" name='part_4' id="show" onclick="show_result()" disabled='true' class="btn btn-primary">See  your result!</button>
+      </div>
+    <br/><br/>  <br/><br/>
+    <div>
+      <button type="button" onclick="previous()" class="btn btn-outline-primary"><<</button>
+      <button type="button" onclick="next()"  class="btn btn-outline-primary">>></button>
+    </div>
+  </form>
+</div>
+<!-- end form -->
+
+<!-- pager -->
+
+
+<!-- end pager -->
+
+<!-- Footer -->
+<div id = "footer">
+<div id = 'foot_lift'>
+<img src="img/footer-left.png" height="250" width="300">
+</div>
+
+    <div id= 'mid1'>
+      <img src="img/footer-li.png">
+      <p>Contact Us:</p>
+      <p>1300 480 759</p>
+      <p>info@switchmaven.com</p> 
+    </div>
+    <div id = 'mid2'>
+        <img src="img/footer-fb.png">
+        <p>About:</p>
+        <p>development</p>
+        <p>labs</p> 
+        <p>blogs</p> 
+    </div>
+      <div id = 'mid3'>
+          <img src="img/footer-tw.png">
+          <p>Sydney, Australia</p>
+          <p>Manila, Philippines</p>              
+          <p>San Francisco, CA, USA</p>             
+          <p>Hyderabad, India</p>       
+      </div>
+
+<div id = 'foot_right'>
+    <img src="img/footer-right.png" height="250" width="300">
+    </div>
+</div>
+<!-- Footer -->
+</body>
+</html>

@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<link rel="stylesheet" 
+href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" 
+crossorigin="anonymous">
+<link rel="stylesheet" href="css/result.css" />
+<link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet">
+<!-- <script type="text/javascript" src="js/from.js"></script> -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+
+<script src="js/result.js"></script>
+
+<title>
+  Survey
+</title>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">
+          <img src = 'img/logo.png' width="60px" height="40px">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+              <li class="nav-item">
+                  <a class="nav-link" href="/">Home</a>
+                </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#" >Test</a>
+              </li>
+            <li class="nav-item active">
+              <a class="nav-link" href="#">Result<span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">About Us</a>
+              </li>
+          </ul>
+          <form class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+          </form>
+        </div>
+      </nav>
+
+<div id="container">
+  <div id="left_part">
+
+<!-- left -->
+    <div class="circle-bar">
+      <div class="circle-bar-left"></div>
+      <div class="circle-bar-right"></div>
+  
+      <div class="mask">
+      
+         <span> <%=category%> <br><br><%=percent%> </span> 
+      </div>
+  </div>
+
+<p id="percent" style="display:none">
+    <%=percent%>
+</p>  
+<div class='underlayer'>
+  <!-- course 1 -->
+<div class="card mb-3" style="max-width: 540px; margin-top: 100px;
+margin-left: 15px; float: left; background-color: #f8f9fa;">
+      <div class="row no-gutters">
+          <div class="col-md-4">
+          <img src="img/course1.png" style="width: 190px;height: 120px; margin-left: 3px; margin-top: 3px;">
+          </div>
+          <div class="col-md-8">
+          <div class="card-body">
+            <div class="info">
+              <h5 >University of Sydney<a href="https://sydney.edu.au/"><img src="img/usyd.png" height="40px" width="70px"></a></h5>
+              <hr>
+            <a href="https://sydney.edu.au/" id="course-1" style="font-size: 20px;"><%=course_1%></a>
+          </div>
+
+            <div class="discription">
+              <h6><%=des_1%></h6>
+          </div>
+          </div>
+          </div>
+      </div>
+      </div>
+
+<div class="like" style="margin-top: 100px; position: relative; left: 30px;">
+      <img src="img/like.png" style="height: 20px; width: 20px;">
+      <img src="img/dis.png" style=" margin-top: 150px;  height: 20px; width: 20px; position: relative; left: -20px;">
+</div>   
+
+<!-- course 2 -->
+
+<div class="card mb-3" style="max-width: 540px; margin-top: 20px;
+margin-left: 15px; float: left; background-color: #f8f9fa;">
+      <div class="row no-gutters">
+          <div class="col-md-4">
+          <img src="img/course2.png" style="width: 190px;height: 120px; margin-left: 3px; margin-top: 3px;">
+          </div>
+          <div class="col-md-8">
+          <div class="card-body">
+            <div class="info">
+              <h5 >Udemy<a href="https://sydney.edu.au/"><img src="img/ud.png" height="40px" width="70px"></a></h5>
+              <hr>
+            <a href="https://sydney.edu.au/" id="course-1" style="font-size: 20px;"><%=course_2%></a>
+          </div>
+
+            <div class="discription">
+              <h6><%=des_2%></h6>
+          </div>
+          </div>
+          </div>
+      </div>
+      </div>
+
+<div class="like" style="margin-top: 100px; position: relative; left: 30px;">
+      <img src="img/like.png" style="height: 20px; width: 20px;">
+      <img src="img/dis.png" style=" margin-top: 150px;  height: 20px; width: 20px; position: relative; left: -20px;">
+</div>   
+
+<!-- course 3 -->
+<div class="card mb-3" style="max-width: 540px; margin-top: 20px;
+margin-left: 15px; float: left; background-color: #f8f9fa;">
+      <div class="row no-gutters">
+          <div class="col-md-4">
+          <img src="img/course3.png" style="width: 190px;height: 120px; margin-left: 3px; margin-top: 3px;">
+          </div>
+          <div class="col-md-8">
+          <div class="card-body">
+            <div class="info">
+              <h5 >University of NSW<a href="https://sydney.edu.au/"><img src="img/unsw.png" height="40px" width="50px"></a></h5>
+              <hr>
+            <a href="https://sydney.edu.au/" id="course-1" style="font-size: 20px;"><%=course_3%></a>
+          </div>
+
+            <div class="discription">
+              <h6><%=des_3%></h6>
+          </div>
+          </div>
+          </div>
+      </div>
+      </div>
+
+<div class="like" style="margin-top: 100px; position: relative; left: 30px;">
+      <img src="img/like.png" style="height: 20px; width: 20px;">
+      <img src="img/dis.png" style=" margin-top: 150px;  height: 20px; width: 20px; position: relative; left: -20px;">
+</div>   
+</div>
+</div>
+    <!-- right -->
+    <div id="right_part">
+      <br>
+        <h4>Other options:</h4>  
+        <hr style="height: 4px; width:70%;">    
+
+    <div class='option'>
+        <button type="button" class="btn btn-outline-warning" 
+        style="height: 100px; width: 410px; margin-top: 5px;margin-left: 10px"
+        onclick="more_res()"
+        >
+            <h4> <span><%=option1%></span> <%=pe_1%></h4>
+        </button>
+    </div>
+    <div class='option'>
+        <button type="button" class="btn btn-outline-warning" style="height: 100px; width: 410px; margin-top: 5px;margin-left: 10px" onclick="more_res()">
+            <h4> <span><%=option2%></span> <%=pe_2%></h4>
+        </button>
+    </div>
+
+    <div class='option'>
+        <button type="button" class="btn btn-outline-warning" style="height: 100px; width: 410px; margin-top: 5px;margin-left: 10px" onclick="more_res()">
+            <h4> <span><%=option3%></span> <%=pe_3%></h4>
+        </button>
+    </div>
+
+</div>
+</div>
+</div>
+</div>
+<!-- Footer -->
+
+<div id = "footer">
+<div id = 'foot_lift'>
+<img src="img/footer-left.png" height="250" width="300">
+</div>
+
+    <div id= 'mid1'>
+      <img src="img/footer-li.png">
+      <p>Contact Us:</p>
+      <p>1300 480 759</p>
+      <p>info@switchmaven.com</p> 
+    </div>
+    <div id = 'mid2'>
+        <img src="img/footer-fb.png">
+        <p>About:</p>
+        <p>development</p>
+        <p>labs</p> 
+        <p>blogs</p> 
+    </div>
+      <div id = 'mid3'>
+          <img src="img/footer-tw.png">
+          <p>Sydney, Australia</p>
+          <p>Manila, Philippines</p>              
+          <p>San Francisco, CA, USA</p>             
+          <p>Hyderabad, India</p>       
+      </div>
+
+<div id = 'foot_right'>
+    <img src="img/footer-right.png" height="250" width="300">
+    </div>
+</div>
+<!-- Footer -->
+</body>
+</html>

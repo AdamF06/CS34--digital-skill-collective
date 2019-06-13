@@ -1,0 +1,401 @@
+Age,Degree,Major,Edu,Skills
+25,Undergraduate,Digital Technology,"Undergraduate,Digital Technology",
+21,Postgraduate,IT Security,"Postgraduate,IT Security",
+21,Undergraduate,Network System,"Undergraduate,Network System",   angularjs html css 
+21,Undergraduate,Data Science,"Undergraduate,Data Science",   html 
+23,Postgraduate,Design Skills,"Postgraduate,Design Skills",   angularjs html javascript 
+24,Postgraduate,Network System,"Postgraduate,Network System",   html css 
+22,Postgraduate,Network System,"Postgraduate,Network System",   javascript css html 
+24,Postgraduate,IT Security,"Postgraduate,IT Security",   
+25,Undergraduate,Biomedical & Health Information,"Undergraduate,Biomedical & Health Information",   angularjs 
+24,Postgraduate,Biomedical & Health Information,"Postgraduate,Biomedical & Health Information",   html 
+24,Postgraduate,Software Engineering,"Postgraduate,Software Engineering",   
+21,Undergraduate,Biomedical & Health Information,"Undergraduate,Biomedical & Health Information",   javascript css angularjs html 
+22,Postgraduate,Design Skills,"Postgraduate,Design Skills",   
+22,Postgraduate,Network System,"Postgraduate,Network System",   css html 
+21,Undergraduate,Network System,"Undergraduate,Network System",   angularjs css html 
+22,Undergraduate,Data Science,"Undergraduate,Data Science",   angularjs 
+21,Postgraduate,Biomedical & Health Information,"Postgraduate,Biomedical & Health Information",   javascript angularjs 
+23,Postgraduate,Biomedical & Health Information,"Postgraduate,Biomedical & Health Information",   
+21,Undergraduate,IT Security,"Undergraduate,IT Security",   html angularjs css javascript 
+25,Undergraduate,Software Engineering,"Undergraduate,Software Engineering",   css html javascript angularjs 
+24,Undergraduate,Design Skills,"Undergraduate,Design Skills", css html 
+22,Undergraduate,Network System,"Undergraduate,Network System",   javascript html css angularjs 
+21,Undergraduate,Digital Technology,"Undergraduate,Digital Technology",   javascript html 
+24,Undergraduate,Digital Technology,"Undergraduate,Digital Technology",   angularjs javascript html 
+22,Postgraduate,Design Skills,"Postgraduate,Design Skills",   angularjs html 
+23,Undergraduate,Biomedical & Health Information,"Undergraduate,Biomedical & Health Information",   angularjs javascript 
+25,Undergraduate,Network System,"Undergraduate,Network System",   css javascript html angularjs 
+23,Undergraduate,IT Security,"Undergraduate,IT Security",   html css angularjs 
+22,Undergraduate,IT Management,"Undergraduate,IT Management",   angularjs css 
+22,Postgraduate,Design Skills,"Postgraduate,Design Skills",   css javascript html 
+21,Undergraduate,Digital Technology,"Undergraduate,Digital Technology",   html angularjs javascript 
+23,Postgraduate,Design Skills,"Postgraduate,Design Skills",   
+22,Undergraduate,Social Marketing,"Undergraduate,Social Marketing",   css javascript angularjs html 
+23,Postgraduate,IT Security,"Postgraduate,IT Security",   
+22,Undergraduate,Biomedical & Health Information,"Undergraduate,Biomedical & Health Information",  html 
+21,Postgraduate,IT Management,"Postgraduate,IT Management",   css javascript angularjs 
+24,Postgraduate,Digital Technology,"Postgraduate,Digital Technology",javascript css html 
+21,Undergraduate,Biomedical & Health Information,"Undergraduate,Biomedical & Health Information",   
+23,Undergraduate,IT Management,"Undergraduate,IT Management",   javascript 
+24,Undergraduate,Biomedical & Health Information,"Undergraduate,Biomedical & Health Information",   html javascript css angularjs 
+25,Postgraduate,Digital Technology,"Postgraduate,Digital Technology",   html angularjs css javascript 
+23,Undergraduate,Digital Technology,"Undergraduate,Digital Technology",javascript   
+24,Postgraduate,Network System,"Postgraduate,Network System",javascript css html 
+24,Postgraduate,IT Security,"Postgraduate,IT Security",   angularjs 
+23,Undergraduate,Social Marketing,"Undergraduate,Social Marketing",   javascript angularjs css 
+25,Postgraduate,Design Skills,"Postgraduate,Design Skills",   javascript html 
+21,Postgraduate,Social Marketing,"Postgraduate,Social Marketing",javascript   
+25,Undergraduate,Digital Technology,"Undergraduate,Digital Technology",  html 
+24,Postgraduate,Design Skills,"Postgraduate,Design Skills",   css javascript 
+24,Undergraduate,Software Engineering,"Undergraduate,Software Engineering",   angularjs 
+22,Undergraduate,Biomedical & Health Information,"Undergraduate,Biomedical & Health Information",   angularjs html 
+23,Undergraduate,Social Marketing,"Undergraduate,Social Marketing",   angularjs html css javascript 
+22,Undergraduate,Design Skills,"Undergraduate,Design Skills",   javascript html 
+22,Undergraduate,Software Engineering,"Undergraduate,Software Engineering",   css html javascript 
+22,Undergraduate,Data Science,"Undergraduate,Data Science",   html angularjs 
+25,Postgraduate,Data Science,"Postgraduate,Data Science",   angularjs css html javascript 
+23,Undergraduate,IT Security,"Undergraduate,IT Security",   
+21,Undergraduate,Biomedical & Health Information,"Undergraduate,Biomedical & Health Information", css html 
+25,Undergraduate,Network System,"Undergraduate,Network System",   
+22,Undergraduate,Design Skills,"Undergraduate,Design Skills",   
+22,Postgraduate,Network System,"Postgraduate,Network System",   html angularjs css javascript 
+23,Undergraduate,Social Marketing,"Undergraduate,Social Marketing",   javascript html 
+22,Undergraduate,Software Engineering,"Undergraduate,Software Engineering",   html 
+25,Postgraduate,Network System,"Postgraduate,Network System",   angularjs 
+22,Postgraduate,Social Marketing,"Postgraduate,Social Marketing",   javascript angularjs 
+22,Postgraduate,Digital Technology,"Postgraduate,Digital Technology",   angularjs 
+23,Postgraduate,Social Marketing,"Postgraduate,Social Marketing",   css 
+22,Postgraduate,Network System,"Postgraduate,Network System",javascript   angularjs
+21,Undergraduate,Digital Technology,"Undergraduate,Digital Technology",   angularjs javascript css html 
+21,Undergraduate,IT Management,"Undergraduate,IT Management",  html 
+21,Undergraduate,Network System,"Undergraduate,Network System",   
+23,Undergraduate,Network System,"Undergraduate,Network System",   javascript angularjs css html 
+23,Undergraduate,Design Skills,"Undergraduate,Design Skills",   javascript css 
+21,Postgraduate,Biomedical & Health Information,"Postgraduate,Biomedical & Health Information",   
+25,Postgraduate,Social Marketing,"Postgraduate,Social Marketing",   
+25,Postgraduate,Software Engineering,"Postgraduate,Software Engineering",   javascript 
+23,Undergraduate,Biomedical & Health Information,"Undergraduate,Biomedical & Health Information",   javascript html css 
+22,Undergraduate,Digital Technology,"Undergraduate,Digital Technology",javascript css html 
+25,Postgraduate,Social Marketing,"Postgraduate,Social Marketing",   javascript 
+22,Undergraduate,Data Science,"Undergraduate,Data Science",   
+25,Undergraduate,IT Management,"Undergraduate,IT Management",   html 
+25,Postgraduate,Design Skills,"Postgraduate,Design Skills",   javascript 
+21,Undergraduate,Design Skills,"Undergraduate,Design Skills",   
+23,Postgraduate,Social Marketing,"Postgraduate,Social Marketing",   css 
+24,Postgraduate,Network System,"Postgraduate,Network System",   javascript html angularjs 
+24,Postgraduate,Data Science,"Postgraduate,Data Science",   angularjs css javascript html 
+22,Undergraduate,Network System,"Undergraduate,Network System",javascript   
+25,Undergraduate,Design Skills,"Undergraduate,Design Skills",   css 
+22,Postgraduate,Data Science,"Postgraduate,Data Science",   javascript 
+22,Undergraduate,IT Security,"Undergraduate,IT Security",   
+22,Postgraduate,Biomedical & Health Information,"Postgraduate,Biomedical & Health Information",   angularjs 
+24,Postgraduate,Biomedical & Health Information,"Postgraduate,Biomedical & Health Information",   css html angularjs 
+21,Undergraduate,Digital Technology,"Undergraduate,Digital Technology",   css angularjs 
+24,Postgraduate,Social Marketing,"Postgraduate,Social Marketing",   css 
+23,Postgraduate,Network System,"Postgraduate,Network System",   
+22,Undergraduate,Network System,"Undergraduate,Network System",   css angularjs html 
+25,Undergraduate,Biomedical & Health Information,"Undergraduate,Biomedical & Health Information",   
+22,Postgraduate,IT Management,"Postgraduate,IT Management",   javascript css angularjs 
+21,Undergraduate,Software Engineering,"Undergraduate,Software Engineering",   css 
+24,Postgraduate,Biomedical & Health Information,"Postgraduate,Biomedical & Health Information", css html angularjs
+24,Postgraduate,Digital Technology,"Postgraduate,Digital Technology",   javascript html angularjs 
+24,Undergraduate,Design Skills,"Undergraduate,Design Skills",javascript css html 
+21,Postgraduate,Social Marketing,"Postgraduate,Social Marketing",   html css angularjs javascript 
+22,Postgraduate,Digital Technology,"Postgraduate,Digital Technology",javascript css html 
+24,Postgraduate,Social Marketing,"Postgraduate,Social Marketing",javascript css html angularjs
+23,Postgraduate,IT Management,"Postgraduate,IT Management",   angularjs css html 
+24,Postgraduate,Biomedical & Health Information,"Postgraduate,Biomedical & Health Information",   javascript angularjs html 
+23,Postgraduate,Design Skills,"Postgraduate,Design Skills",   
+24,Postgraduate,Biomedical & Health Information,"Postgraduate,Biomedical & Health Information",   javascript 
+25,Undergraduate,Social Marketing,"Undergraduate,Social Marketing",   javascript html 
+21,Postgraduate,Digital Technology,"Postgraduate,Digital Technology",   
+23,Undergraduate,Software Engineering,"Undergraduate,Software Engineering",javascript css html 
+24,Undergraduate,Social Marketing,"Undergraduate,Social Marketing",   html javascript css angularjs 
+23,Undergraduate,IT Management,"Undergraduate,IT Management",   angularjs 
+23,Undergraduate,Network System,"Undergraduate,Network System", css html 
+23,Undergraduate,Data Science,"Undergraduate,Data Science",   css 
+23,Undergraduate,Design Skills,"Undergraduate,Design Skills",   html 
+25,Postgraduate,IT Security,"Postgraduate,IT Security",   
+24,Undergraduate,Biomedical & Health Information,"Undergraduate,Biomedical & Health Information",   
+23,Undergraduate,Data Science,"Undergraduate,Data Science",   css javascript angularjs html 
+23,Postgraduate,Data Science,"Postgraduate,Data Science",   
+25,Undergraduate,Software Engineering,"Undergraduate,Software Engineering",   html css 
+21,Postgraduate,Software Engineering,"Postgraduate,Software Engineering",   css html 
+25,Undergraduate,IT Management,"Undergraduate,IT Management",   angularjs html css 
+21,Postgraduate,IT Security,"Postgraduate,IT Security",   css 
+22,Undergraduate,IT Management,"Undergraduate,IT Management",
+23,Undergraduate,Data Science,"Undergraduate,Data Science",
+24,Postgraduate,IT Security,"Postgraduate,IT Security",
+25,Postgraduate,IT Security,"Postgraduate,IT Security",
+25,Undergraduate,Design Skills,"Undergraduate,Design Skills",
+22,Undergraduate,IT Security,"Undergraduate,IT Security",
+22,Undergraduate,Design Skills,"Undergraduate,Design Skills",
+24,Undergraduate,Network System,"Undergraduate,Network System",   javascript css html 
+22,Undergraduate,Network System,"Undergraduate,Network System",javascript css html 
+23,Postgraduate,Digital Technology,"Postgraduate,Digital Technology",javascript   angularjs
+22,Undergraduate,Biomedical & Health Information,"Undergraduate,Biomedical & Health Information",   
+23,Undergraduate,IT Security,"Undergraduate,IT Security",   angularjs javascript html css 
+21,Postgraduate,Network System,"Postgraduate,Network System",javascript   angularjs
+24,Undergraduate,Software Engineering,"Undergraduate,Software Engineering",javascript css html 
+23,Undergraduate,Biomedical & Health Information,"Undergraduate,Biomedical & Health Information",   css html angularjs javascript 
+23,Undergraduate,Software Engineering,"Undergraduate,Software Engineering",   javascript angularjs html css 
+25,Postgraduate,Biomedical & Health Information,"Postgraduate,Biomedical & Health Information",javascript   
+23,Undergraduate,Design Skills,"Undergraduate,Design Skills",   angularjs css html 
+21,Undergraduate,Software Engineering,"Undergraduate,Software Engineering",   angularjs javascript html css 
+23,Postgraduate,Social Marketing,"Postgraduate,Social Marketing",   javascript css angularjs 
+24,Undergraduate,IT Management,"Undergraduate,IT Management",javascript   
+21,Undergraduate,Software Engineering,"Undergraduate,Software Engineering",javascript   angularjs
+21,Postgraduate,IT Management,"Postgraduate,IT Management",javascript css html 
+25,Undergraduate,Data Science,"Undergraduate,Data Science",javascript   
+24,Postgraduate,Network System,"Postgraduate,Network System",   css javascript 
+24,Undergraduate,Network System,"Undergraduate,Network System",   javascript 
+23,Undergraduate,IT Management,"Undergraduate,IT Management",javascript css html angularjs
+25,Postgraduate,IT Security,"Postgraduate,IT Security",Html  javascript css
+23,Postgraduate,IT Security,"Postgraduate,IT Security",nanjavascript html css 
+22,Undergraduate,IT Management,"Undergraduate,IT Management",Html  javascript css
+24,Postgraduate,IT Management,"Postgraduate,IT Management",nanjavascript html css 
+25,Postgraduate,IT Security,"Postgraduate,IT Security",Html  javascript css
+22,Postgraduate,Software Engineering,"Postgraduate,Software Engineering",Html  javascript css
+24,Undergraduate,Network System,"Undergraduate,Network System",Html  javascript css
+23,Postgraduate,Biomedical & Health Information,"Postgraduate,Biomedical & Health Information",Html  javascript css
+25,Undergraduate,Network System,"Undergraduate,Network System",Html  javascript css
+21,Postgraduate,IT Security,"Postgraduate,IT Security",Html  javascript css
+23,Undergraduate,Network System,"Undergraduate,Network System",nanjavascript css html 
+22,Postgraduate,IT Management,"Postgraduate,IT Management",Html  javascript css
+22,Undergraduate,Design Skills,"Undergraduate,Design Skills",Html  javascript css
+24,Postgraduate,IT Security,"Postgraduate,IT Security",Html  javascript css
+21,Postgraduate,Software Engineering,"Postgraduate,Software Engineering",Html  javascript css
+25,Undergraduate,Software Engineering,"Undergraduate,Software Engineering",Html  javascript css
+24,Postgraduate,Data Science,"Postgraduate,Data Science",nanjavascript html 
+22,Postgraduate,Design Skills,"Postgraduate,Design Skills",nanjavascript html css 
+25,Postgraduate,Digital Technology,"Postgraduate,Digital Technology",nanhtml javascript 
+25,Postgraduate,Biomedical & Health Information,"Postgraduate,Biomedical & Health Information",nanjavascript 
+22,Postgraduate,Social Marketing,"Postgraduate,Social Marketing",Html  javascript css
+23,Postgraduate,Data Science,"Postgraduate,Data Science",nanjavascript html css 
+24,Undergraduate,Data Science,"Undergraduate,Data Science",Html  javascript css
+22,Undergraduate,Data Science,"Undergraduate,Data Science",Html  javascript css
+21,Postgraduate,Social Marketing,"Postgraduate,Social Marketing",Html  javascript css
+24,Postgraduate,Design Skills,"Postgraduate,Design Skills",Html  javascript css
+22,Undergraduate,Software Engineering,"Undergraduate,Software Engineering",Html  javascript css
+24,Undergraduate,Social Marketing,"Undergraduate,Social Marketing",Html  javascript css
+22,Undergraduate,Data Science,"Undergraduate,Data Science",Html  javascript css
+23,Postgraduate,IT Security,"Postgraduate,IT Security",Html  javascript css
+24,Postgraduate,Biomedical & Health Information,"Postgraduate,Biomedical & Health Information",Html  javascript css
+21,Undergraduate,Data Science,"Undergraduate,Data Science",Html  javascript css
+24,Undergraduate,Social Marketing,"Undergraduate,Social Marketing",Html  javascript css
+25,Undergraduate,Social Marketing,"Undergraduate,Social Marketing",Html  javascript css
+22,Postgraduate,Software Engineering,"Postgraduate,Software Engineering",nanhtml 
+24,Postgraduate,Software Engineering,"Postgraduate,Software Engineering",Html  javascript css
+23,Postgraduate,IT Management,"Postgraduate,IT Management",Html  javascript css
+24,Postgraduate,IT Security,"Postgraduate,IT Security",Html  javascript css
+21,Undergraduate,Data Science,"Undergraduate,Data Science",Html  javascript css
+23,Undergraduate,IT Management,"Undergraduate,IT Management",Html  javascript css
+21,Undergraduate,Digital Technology,"Undergraduate,Digital Technology",Html  javascript css
+21,Postgraduate,Data Science,"Postgraduate,Data Science",Html  javascript css
+21,Postgraduate,Social Marketing,"Postgraduate,Social Marketing",Html   css
+21,Postgraduate,Software Engineering,"Postgraduate,Software Engineering",Html  javascript css
+21,Postgraduate,Social Marketing,"Postgraduate,Social Marketing",Html  javascript css
+21,Postgraduate,Network System,"Postgraduate,Network System",Html  javascript css
+22,Undergraduate,Social Marketing,"Undergraduate,Social Marketing",Html  javascript css
+22,Postgraduate,Design Skills,"Postgraduate,Design Skills",Html  javascript css
+21,Postgraduate,Digital Technology,"Postgraduate,Digital Technology",Html  javascript css
+24,Undergraduate,Software Engineering,"Undergraduate,Software Engineering",Html  javascript css
+25,Postgraduate,Design Skills,"Postgraduate,Design Skills",Html  javascript css
+22,Postgraduate,IT Security,"Postgraduate,IT Security",Html  javascript css
+25,Postgraduate,Data Science,"Postgraduate,Data Science",Html  javascript css
+21,Undergraduate,Social Marketing,"Undergraduate,Social Marketing",Html  javascript css
+21,Undergraduate,Design Skills,"Undergraduate,Design Skills",nanjavascript html css 
+23,Postgraduate,IT Security,"Postgraduate,IT Security",nancss html 
+21,Undergraduate,Network System,"Undergraduate,Network System",Html  javascript css
+22,Postgraduate,Design Skills,"Postgraduate,Design Skills",nanjavascript 
+21,Postgraduate,Data Science,"Postgraduate,Data Science",Html  javascript css
+25,Postgraduate,Digital Technology,"Postgraduate,Digital Technology",nancss html javascript 
+21,Postgraduate,Digital Technology,"Postgraduate,Digital Technology",nanvpn 
+25,Postgraduate,Network System,"Postgraduate,Network System",nanvpn 
+23,Postgraduate,IT Management,"Postgraduate,IT Management",java
+25,Undergraduate,Digital Technology,"Undergraduate,Digital Technology",nanjava testing vpn 
+23,Postgraduate,IT Management,"Postgraduate,IT Management",nantesting vpn 
+21,Undergraduate,Network System,"Undergraduate,Network System",nanvpn 
+21,Undergraduate,IT Security,"Undergraduate,IT Security",nantesting 
+23,Postgraduate,IT Security,"Postgraduate,IT Security",nanvpn testing java 
+21,Postgraduate,IT Security,"Postgraduate,IT Security",nan
+23,Undergraduate,Design Skills,"Undergraduate,Design Skills",java
+21,Undergraduate,IT Security,"Undergraduate,IT Security",nanvpn java 
+21,Postgraduate,Software Engineering,"Postgraduate,Software Engineering",nanjava testing vpn 
+23,Postgraduate,Design Skills,"Postgraduate,Design Skills",nan
+22,Postgraduate,IT Security,"Postgraduate,IT Security",nantesting vpn java 
+25,Undergraduate,Data Science,"Undergraduate,Data Science",nantesting java 
+24,Postgraduate,IT Security,"Postgraduate,IT Security",nantesting 
+24,Undergraduate,Social Marketing,"Undergraduate,Social Marketing",nan
+22,Undergraduate,IT Security,"Undergraduate,IT Security",nantesting 
+23,Postgraduate,Design Skills,"Postgraduate,Design Skills",nanjava testing vpn 
+22,Postgraduate,Design Skills,"Postgraduate,Design Skills",nanjava 
+23,Postgraduate,IT Security,"Postgraduate,IT Security",nantesting 
+23,Postgraduate,IT Security,"Postgraduate,IT Security",nan
+21,Undergraduate,Software Engineering,"Undergraduate,Software Engineering",nan
+21,Postgraduate,Biomedical & Health Information,"Postgraduate,Biomedical & Health Information",nantesting java vpn 
+22,Undergraduate,Data Science,"Undergraduate,Data Science",nan
+24,Undergraduate,Data Science,"Undergraduate,Data Science",java
+25,Postgraduate,IT Security,"Postgraduate,IT Security",nan
+22,Postgraduate,Design Skills,"Postgraduate,Design Skills",nanjava testing vpn 
+24,Undergraduate,Biomedical & Health Information,"Undergraduate,Biomedical & Health Information",nanvpn java 
+21,Undergraduate,Biomedical & Health Information,"Undergraduate,Biomedical & Health Information",nanvpn java 
+23,Postgraduate,Network System,"Postgraduate,Network System",nantesting vpn 
+22,Postgraduate,Data Science,"Postgraduate,Data Science",nanvpn java testing 
+22,Undergraduate,IT Security,"Undergraduate,IT Security",nan
+21,Postgraduate,Design Skills,"Postgraduate,Design Skills",nan
+25,Undergraduate,Social Marketing,"Undergraduate,Social Marketing",nantesting 
+23,Undergraduate,Design Skills,"Undergraduate,Design Skills",nanvpn testing java 
+25,Postgraduate,IT Security,"Postgraduate,IT Security",nan
+21,Undergraduate,IT Security,"Undergraduate,IT Security",nan
+21,Postgraduate,Design Skills,"Postgraduate,Design Skills",nanvpn testing 
+23,Postgraduate,Design Skills,"Postgraduate,Design Skills",nan
+24,Postgraduate,Design Skills,"Postgraduate,Design Skills",nanvpn 
+21,Undergraduate,Data Science,"Undergraduate,Data Science",nanvpn 
+23,Undergraduate,Digital Technology,"Undergraduate,Digital Technology",nan
+24,Undergraduate,Network System,"Undergraduate,Network System",nan
+24,Undergraduate,Design Skills,"Undergraduate,Design Skills",nantesting 
+24,Undergraduate,Network System,"Undergraduate,Network System",nan
+25,Undergraduate,Biomedical & Health Information,"Undergraduate,Biomedical & Health Information",nanjava 
+23,Postgraduate,Network System,"Postgraduate,Network System",nan
+23,Undergraduate,Social Marketing,"Undergraduate,Social Marketing",nantesting 
+25,Undergraduate,Data Science,"Undergraduate,Data Science",nanvpn java testing 
+25,Postgraduate,Software Engineering,"Postgraduate,Software Engineering",nanvpn java testing 
+23,Undergraduate,Digital Technology,"Undergraduate,Digital Technology",nanjava testing vpn 
+22,Postgraduate,Biomedical & Health Information,"Postgraduate,Biomedical & Health Information",nantesting vpn 
+25,Undergraduate,IT Security,"Undergraduate,IT Security",nantesting java 
+23,Undergraduate,Social Marketing,"Undergraduate,Social Marketing",nan
+23,Postgraduate,Data Science,"Postgraduate,Data Science",nanjava testing vpn 
+24,Postgraduate,Biomedical & Health Information,"Postgraduate,Biomedical & Health Information",nantesting 
+22,Postgraduate,Digital Technology,"Postgraduate,Digital Technology",nanvpn java testing 
+24,Undergraduate,Software Engineering,"Undergraduate,Software Engineering",nanvpn testing 
+24,Undergraduate,IT Management,"Undergraduate,IT Management",nanjava testing vpn 
+22,Undergraduate,Network System,"Undergraduate,Network System",    php 
+21,Undergraduate,Data Science,"Undergraduate,Data Science",    photoshop j2ee java php html 
+21,Undergraduate,Digital Technology,"Undergraduate,Digital Technology",    php 
+21,Undergraduate,Digital Technology,"Undergraduate,Digital Technology",    j2ee java photoshop 
+21,Undergraduate,Digital Technology,"Undergraduate,Digital Technology",    html j2ee photoshop php 
+23,Undergraduate,Social Marketing,"Undergraduate,Social Marketing",    
+25,Undergraduate,Design Skills,"Undergraduate,Design Skills",    java html photoshop j2ee 
+23,Postgraduate,Digital Technology,"Postgraduate,Digital Technology",    html photoshop php j2ee java 
+22,Undergraduate,IT Management,"Undergraduate,IT Management",java J2EE PHP  
+22,Postgraduate,Design Skills,"Postgraduate,Design Skills",    j2ee php html photoshop 
+23,Undergraduate,Design Skills,"Undergraduate,Design Skills",   Html 
+23,Undergraduate,Design Skills,"Undergraduate,Design Skills",  PHP  
+22,Postgraduate,Social Marketing,"Postgraduate,Social Marketing",   Html photoshop
+23,Postgraduate,Social Marketing,"Postgraduate,Social Marketing",java    
+23,Undergraduate,IT Management,"Undergraduate,IT Management",java   Html 
+21,Undergraduate,Network System,"Undergraduate,Network System",    php j2ee photoshop html java 
+22,Undergraduate,Data Science,"Undergraduate,Data Science", J2EE   
+22,Undergraduate,Software Engineering,"Undergraduate,Software Engineering",    html j2ee photoshop php 
+22,Undergraduate,IT Management,"Undergraduate,IT Management",    j2ee html photoshop php java 
+25,Undergraduate,IT Security,"Undergraduate,IT Security",java    
+21,Undergraduate,IT Management,"Undergraduate,IT Management",    java html 
+21,Undergraduate,Data Science,"Undergraduate,Data Science",    php java html j2ee photoshop 
+21,Postgraduate,Design Skills,"Postgraduate,Design Skills",    photoshop j2ee php 
+22,Undergraduate,Biomedical & Health Information,"Undergraduate,Biomedical & Health Information",java    
+22,Undergraduate,IT Security,"Undergraduate,IT Security",java    
+23,Undergraduate,IT Management,"Undergraduate,IT Management",java J2EE   
+23,Undergraduate,Design Skills,"Undergraduate,Design Skills",    java 
+24,Undergraduate,Digital Technology,"Undergraduate,Digital Technology",java J2EE   
+24,Undergraduate,Network System,"Undergraduate,Network System",    j2ee 
+21,Undergraduate,Digital Technology,"Undergraduate,Digital Technology",    java 
+24,Postgraduate,Network System,"Postgraduate,Network System",    photoshop php java 
+25,Undergraduate,Design Skills,"Undergraduate,Design Skills",    photoshop php java html j2ee 
+22,Postgraduate,Data Science,"Postgraduate,Data Science",java    
+24,Postgraduate,Social Marketing,"Postgraduate,Social Marketing",java    
+21,Undergraduate,Data Science,"Undergraduate,Data Science",    java 
+22,Postgraduate,Software Engineering,"Postgraduate,Software Engineering",    photoshop html java j2ee 
+21,Undergraduate,IT Management,"Undergraduate,IT Management",java    
+25,Undergraduate,Social Marketing,"Undergraduate,Social Marketing",java    
+22,Undergraduate,Social Marketing,"Undergraduate,Social Marketing",java   Html photoshop
+23,Postgraduate,Data Science,"Postgraduate,Data Science",java   Html photoshop
+21,Undergraduate,Biomedical & Health Information,"Undergraduate,Biomedical & Health Information",   Html photoshop
+21,Undergraduate,IT Security,"Undergraduate,IT Security",    html php java j2ee photoshop 
+22,Undergraduate,Design Skills,"Undergraduate,Design Skills",java  PHP Html 
+24,Postgraduate,IT Security,"Postgraduate,IT Security",   Html 
+23,Postgraduate,Social Marketing,"Postgraduate,Social Marketing",java   Html 
+21,Undergraduate,Biomedical & Health Information,"Undergraduate,Biomedical & Health Information",java  PHP Html 
+22,Postgraduate,Software Engineering,"Postgraduate,Software Engineering",java   Html 
+23,Postgraduate,Design Skills,"Postgraduate,Design Skills",java J2EE   
+21,Undergraduate,IT Security,"Undergraduate,IT Security",  PHP  
+21,Undergraduate,Design Skills,"Undergraduate,Design Skills",java   Html photoshop
+22,Undergraduate,IT Security,"Undergraduate,IT Security",java   Html photoshop
+24,Postgraduate,Social Marketing,"Postgraduate,Social Marketing",    html j2ee 
+23,Postgraduate,Network System,"Postgraduate,Network System",    j2ee photoshop php html java 
+25,Postgraduate,IT Security,"Postgraduate,IT Security",java J2EE PHP Html 
+24,Undergraduate,Network System,"Undergraduate,Network System",java J2EE PHP Html 
+22,Undergraduate,Design Skills,"Undergraduate,Design Skills",  PHP  
+21,Postgraduate,Design Skills,"Postgraduate,Design Skills",java   Html 
+22,Undergraduate,Digital Technology,"Undergraduate,Digital Technology",  PHP  
+25,Postgraduate,Social Marketing,"Postgraduate,Social Marketing",java    
+21,Postgraduate,Social Marketing,"Postgraduate,Social Marketing",java  PHP Html 
+24,Postgraduate,IT Security,"Postgraduate,IT Security",java  PHP Html 
+22,Postgraduate,Digital Technology,"Postgraduate,Digital Technology",java  PHP  
+22,Undergraduate,Data Science,"Undergraduate,Data Science",java   Html 
+22,Postgraduate,Social Marketing,"Postgraduate,Social Marketing",java   Html 
+22,Postgraduate,Software Engineering,"Postgraduate,Software Engineering",  PHP  photoshop
+24,Undergraduate,IT Management,"Undergraduate,IT Management",java  PHP Html 
+23,Undergraduate,Biomedical & Health Information,"Undergraduate,Biomedical & Health Information",java   Html photoshop
+23,Undergraduate,Design Skills,"Undergraduate,Design Skills",  PHP Html 
+22,Postgraduate,IT Security,"Postgraduate,IT Security",java  PHP Html 
+23,Postgraduate,Software Engineering,"Postgraduate,Software Engineering",java   Html photoshop
+21,Postgraduate,IT Security,"Postgraduate,IT Security",java  PHP Html 
+24,Postgraduate,IT Management,"Postgraduate,IT Management",    j2ee html 
+23,Undergraduate,Social Marketing,"Undergraduate,Social Marketing",java    
+21,Postgraduate,Data Science,"Postgraduate,Data Science",   Html 
+23,Undergraduate,Software Engineering,"Undergraduate,Software Engineering",java   Html photoshop
+24,Postgraduate,IT Management,"Postgraduate,IT Management",java  PHP Html 
+25,Undergraduate,IT Management,"Undergraduate,IT Management",java   Html 
+24,Postgraduate,IT Security,"Postgraduate,IT Security",  PHP  
+23,Undergraduate,Digital Technology,"Undergraduate,Digital Technology",    
+21,Undergraduate,IT Security,"Undergraduate,IT Security",java   Html photoshop
+24,Undergraduate,Design Skills,"Undergraduate,Design Skills",java   Html photoshop
+22,Postgraduate,Digital Technology,"Postgraduate,Digital Technology",java   Html 
+24,Undergraduate,IT Management,"Undergraduate,IT Management",java   Html 
+22,Postgraduate,IT Management,"Postgraduate,IT Management",java  PHP Html 
+23,Postgraduate,Software Engineering,"Postgraduate,Software Engineering",java  PHP  
+21,Undergraduate,Biomedical & Health Information,"Undergraduate,Biomedical & Health Information",java   Html photoshop
+21,Postgraduate,Digital Technology,"Postgraduate,Digital Technology",java   Html 
+21,Postgraduate,IT Management,"Postgraduate,IT Management",java   Html photoshop
+22,Postgraduate,Social Marketing,"Postgraduate,Social Marketing",java   Html photoshop
+24,Postgraduate,Biomedical & Health Information,"Postgraduate,Biomedical & Health Information",java   Html photoshop
+24,Undergraduate,IT Management,"Undergraduate,IT Management",  PHP Html photoshop
+23,Postgraduate,IT Management,"Postgraduate,IT Management",java  PHP Html photoshop
+23,Undergraduate,Biomedical & Health Information,"Undergraduate,Biomedical & Health Information",    photoshop j2ee html php 
+22,Undergraduate,Network System,"Undergraduate,Network System",   Html photoshop
+23,Postgraduate,Software Engineering,"Postgraduate,Software Engineering",    java php photoshop j2ee html 
+24,Postgraduate,Network System,"Postgraduate,Network System",java   Html photoshop
+22,Postgraduate,Software Engineering,"Postgraduate,Software Engineering",java   Html 
+25,Undergraduate,Software Engineering,"Undergraduate,Software Engineering",java  PHP Html photoshop
+22,Postgraduate,IT Management,"Postgraduate,IT Management",java  PHP Html photoshop
+23,Undergraduate,Digital Technology,"Undergraduate,Digital Technology",java  PHP Html photoshop
+23,Undergraduate,Design Skills,"Undergraduate,Design Skills",   Html 
+21,Undergraduate,IT Security,"Undergraduate,IT Security",    photoshop
+23,Postgraduate,IT Management,"Postgraduate,IT Management",java   Html photoshop
+24,Undergraduate,Digital Technology,"Undergraduate,Digital Technology",    
+22,Undergraduate,Biomedical & Health Information,"Undergraduate,Biomedical & Health Information",java   Html photoshop
+25,Postgraduate,Social Marketing,"Postgraduate,Social Marketing",java   Html photoshop
+23,Postgraduate,IT Security,"Postgraduate,IT Security",    photoshop
+22,Postgraduate,Digital Technology,"Postgraduate,Digital Technology",java   Html 
+25,Postgraduate,Data Science,"Postgraduate,Data Science",java   Html photoshop
+24,Undergraduate,Design Skills,"Undergraduate,Design Skills",java   Html photoshop
+22,Postgraduate,Network System,"Postgraduate,Network System",    photoshop
+24,Postgraduate,IT Management,"Postgraduate,IT Management",java   Html 
+23,Undergraduate,Data Science,"Undergraduate,Data Science",   Html 
+21,Undergraduate,Data Science,"Undergraduate,Data Science",java   Html photoshop
+23,Undergraduate,Design Skills,"Undergraduate,Design Skills",java   Html photoshop
+22,Postgraduate,IT Security,"Postgraduate,IT Security",   Html photoshop
+25,Postgraduate,Social Marketing,"Postgraduate,Social Marketing",java   Html 
+23,Postgraduate,Design Skills,"Postgraduate,Design Skills",java   Html photoshop
+23,Undergraduate,Biomedical & Health Information,"Undergraduate,Biomedical & Health Information",  PHP Html photoshop
+22,Undergraduate,IT Management,"Undergraduate,IT Management",java    photoshop
+23,Undergraduate,Data Science,"Undergraduate,Data Science",java   Html photoshop
+22,Postgraduate,Social Marketing,"Postgraduate,Social Marketing",java   Html photoshop
+25,Postgraduate,Biomedical & Health Information,"Postgraduate,Biomedical & Health Information",java   Html photoshop
+23,Postgraduate,IT Management,"Postgraduate,IT Management",   Html 
+25,Postgraduate,Digital Technology,"Postgraduate,Digital Technology",    photoshop
+23,Undergraduate,Social Marketing,"Undergraduate,Social Marketing",java  PHP Html photoshop
+22,Postgraduate,Social Marketing,"Postgraduate,Social Marketing",java   Html photoshop
+24,Postgraduate,Digital Technology,"Postgraduate,Digital Technology",   Html photoshop
